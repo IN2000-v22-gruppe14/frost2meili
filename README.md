@@ -1,6 +1,6 @@
 # frost2meili
 
-Et enkelt skript som henter data fra [Metereologisk institutt sitt "Frost" lokasjons-API](https://frost.met.no/api.html#/locations) og indekserer i [Meilisearch](https://github.com/meilisearch/meilisearch).
+Et enkelt skript som henter data fra [Meteorologisk institutt sitt "Frost" lokasjons-API](https://frost.met.no/api.html#/locations) og indekserer i [Meilisearch](https://github.com/meilisearch/meilisearch).
 
 *Dette forutsetter at man har en kjørende instans av Meilisearch*
 
